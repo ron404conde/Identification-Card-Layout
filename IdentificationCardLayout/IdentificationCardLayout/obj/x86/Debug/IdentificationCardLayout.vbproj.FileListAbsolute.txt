@@ -1,0 +1,34 @@
+D:\@1Devcode\04_GitOpenSourceProject\Code\IdentificationCardLayout\IdentificationCardLayout\bin\Debug\IdentificationCardLayout.exe
+D:\@1Devcode\04_GitOpenSourceProject\Code\IdentificationCardLayout\IdentificationCardLayout\bin\Debug\IdentificationCardLayout.pdb
+D:\@1Devcode\04_GitOpenSourceProject\Code\IdentificationCardLayout\IdentificationCardLayout\bin\Debug\IdentificationCardLayout.xml
+D:\@1Devcode\04_GitOpenSourceProject\Code\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.Form1.resources
+D:\@1Devcode\04_GitOpenSourceProject\Code\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.Resources.resources
+D:\@1Devcode\04_GitOpenSourceProject\Code\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.vbproj.GenerateResource.Cache
+D:\@1Devcode\04_GitOpenSourceProject\Code\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.exe
+D:\@1Devcode\04_GitOpenSourceProject\Code\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.xml
+D:\@1Devcode\04_GitOpenSourceProject\Code\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.pdb
+D:\@1Devcode\04_GitOpenSourceProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.exe
+D:\@1Devcode\04_GitOpenSourceProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.xml
+D:\@1Devcode\04_GitOpenSourceProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.pdb
+D:\@1Devcode\04_GitOpenSourceProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\bin\Debug\IdentificationCardLayout.exe
+D:\@1Devcode\04_GitOpenSourceProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\bin\Debug\IdentificationCardLayout.pdb
+D:\@1Devcode\04_GitOpenSourceProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\bin\Debug\IdentificationCardLayout.xml
+D:\@1Devcode\04_GitOpenSourceProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.Resources.resources
+D:\@1Devcode\04_GitOpenSourceProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.vbproj.GenerateResource.Cache
+D:\@1Devcode\04_GitOpenSourceProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.frmMainPage.resources
+D:\@1Devcode\04_GitOpenSourceProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.frmNewResident.resources
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.exe
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.xml
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.pdb
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\bin\Debug\IdentificationCardLayout.exe
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\bin\Debug\IdentificationCardLayout.pdb
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\bin\Debug\IdentificationCardLayout.xml
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.frmMainPage.resources
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.Resources.resources
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.vbproj.GenerateResource.Cache
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\bin\Debug\IdentificationCardLayout.exe.config
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.vbprojResolveAssemblyReference.cache
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.frmNewEmployee.resources
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\IdentificationCardLayout.frmEmployeeIDCard_PrintPreview.resources
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\RdlCompile.cache
+D:\@1Devcode\04_GitProject\Code\02 IdentificationCardLayout\IdentificationCardLayout\IdentificationCardLayout\obj\x86\Debug\RdlCompile.compiled
